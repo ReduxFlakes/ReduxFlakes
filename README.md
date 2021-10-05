@@ -6,7 +6,7 @@
 
 ---
 
-* 🔭 I’m currently working on [Luna Bot](https://github.com/ReduxFlakes/luna-bot)
+* 🔭 I’m currently working on [Luna Bot](https://github.com/ReduxFlakes/luna-bot) 🐱
 * 🌱 I’m currently learning, HTML and CSS, Python and Linux. 
 * 👯 I’m looking to collaborate on small projects like static websites.
 * 🤔 I’m looking for help with JavaScript and Python.
