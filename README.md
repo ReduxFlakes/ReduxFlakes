@@ -6,7 +6,7 @@
 
 ---
 
-* 🔭 I’m currently working on nothing at the moment
+* 🔭 I’m currently working on nothing at the moment.
 * 🌱 I’m currently learning, CSS, Python, Java and Linux. 
 * 👯 I’m looking to collaborate on small projects like static websites.
 * 🤔 I’m looking for help with JavaScript and Python.
