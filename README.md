@@ -1,13 +1,13 @@
 <p align="center"><img src="https://media4.giphy.com/media/IPxzeQkz6MWfbDN44x/200.gif" alt="Mountain with snow gif" class="center"></p>
-<h1 align="center">Hi, I'm ReduxFlakes! 😊</h1>
+<h1 align="center">Hi, I'm ReduxFlakes!</h1>
 <p align="center"><strong>I'm a student and self thought programmer in Portugal.</strong></p>
 <p align="center"><strong>Down below you can find my social media, skills, current projects and other interesting stuff about me.<strong></p>
 <p align="center"><strong>Feel free to contact me! Hope you have a great day!</strong></p>
 
 ---
 
-* 🔭 I’m currently working on [Hyperion](https://github.com/ReduxFlakes/hyperion), [Luna Bot](https://github.com/ReduxFlakes/luna-bot)
-* 🌱 I’m currently learning, HTML and CSS, Python and Linux. 
+* 🔭 I’m currently working on nothing at the moment
+* 🌱 I’m currently learning, CSS, Python, Java and Linux. 
 * 👯 I’m looking to collaborate on small projects like static websites.
 * 🤔 I’m looking for help with JavaScript and Python.
 * 💬 Ask me about open source software and projects.
