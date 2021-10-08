@@ -11,6 +11,6 @@
 * 👯 I’m looking to collaborate on small projects like static websites.
 * 🤔 I’m looking for help with JavaScript and Python.
 * 💬 Ask me about open source software and projects.
-* 📫 How to reach me: [Discord](https://discord.com/users/827031832155521030), [Twitter](https://twitter.com/ReduxFlakes) and [stackoverflow](https://stackoverflow.com/users/17066470/tiago-carmo)
+* 📫 How to reach me: [Discord](https://discord.com/users/827031832155521030), [Twitter](https://twitter.com/ReduxFlakes) and [Stack Overflow](https://stackoverflow.com/users/17066470/tiago-carmo)
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I'm very lazy
