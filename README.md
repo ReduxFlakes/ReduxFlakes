@@ -13,6 +13,4 @@
 * 💬 Ask me about open source software and projects.
 * 📫 How to reach me: [Discord](https://discord.com/users/827031832155521030), [Twitter](https://twitter.com/ReduxFlakes) and [stackoverflow](https://stackoverflow.com/users/17066470/tiago-carmo)
 * 😄 Pronouns: He/Him
-* ⚡ Fun fact: I'm very lazy 😔
-
-💡 Pro Tip: If you want to make this better, feel free to fork, make your changes and pull request your changes so that I can merge and make this better, thank you for supporting open source projects!
+* ⚡ Fun fact: I'm very lazy
