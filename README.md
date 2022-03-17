@@ -1,7 +1,4 @@
 <h1 align="center">ReduxFlakes</h1>
-<p align="center">
-  <img width="500px" src="https://cdnb.artstation.com/p/assets/images/images/014/665/033/original/yargon-kerman-webp-net-gifmaker-39.gif" />
-</p>
 <h3 align="center">A person made out of synthwave, chiptune and programming. <a href="http://www.reduxflakes.ga/">Website</a></h3>
 
 * I’m currently working on: nothing
