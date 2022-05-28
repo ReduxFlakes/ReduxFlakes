@@ -6,10 +6,11 @@
   <img src="https://img.shields.io/mastodon/follow/108334346044827412?domain=https%3A%2F%2Ffosstodon.org%2F&style=social" alt="@redux" />
   <br>
   <hr>
+  <img src="https://github-readme-stats.vercel.app/api?username=reduxflakes&show_icons=true&locale=en"height="170px">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=reduxflakes&show_icons=true&locale=en" align="left" height="120px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reduxflakes&show_icons=true&locale=en&layout=compact" align="right" height="120px">
-  <br><br><br><br<br><br><br><br><br><br><hr>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reduxflakes&show_icons=true&locale=en&layout=compact" height="170px">
+  <br>
+  <hr>
   <h1>Skills</h1>
   <br>
   <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/linux.svg" height="50">
