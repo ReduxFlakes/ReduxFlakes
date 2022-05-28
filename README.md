@@ -26,4 +26,7 @@
   <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/python.svg" height="50">
   <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/jekyll.svg" height="50">
   <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/xiaomi.svg" height="50">
+  <br>
+  <br>
+  <a href="https://simpleicons.org/?q=">Simple Icons</a>
 </div>
