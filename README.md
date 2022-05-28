@@ -7,8 +7,8 @@
   <br>
   <hr>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=reduxflakes&show_icons=true&locale=en" align="left" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reduxflakes&show_icons=true&locale=en&layout=compact" align="right" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=reduxflakes&show_icons=true&locale=en" align="left" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reduxflakes&show_icons=true&locale=en&layout=compact" align="right" height="160px">
   <br><br><br><br<br><br><br><br><br><br><hr>
   <h1>Skills</h1>
   <br>
