@@ -1,8 +1,29 @@
-<h1 align="center">ReduxFlakes</h1>
-<h3 align="center">15 | Portugal | Android developer | <a href="http://www.reduxflakes.ga/">Website</a></h3>
-
-* I’m currently working on: [Weather](https://www.reduxflakes.ga/weather)
-* I’m currently learning: Java
-* How to reach me: [Discord](https://discord.com/users/827031832155521030), [Twitter](https://twitter.com/ReduxFlakes), [Reddit](https://www.reddit.com/user/ReduxFlakes),  and [Stack Overflow](https://stackoverflow.com/users/17066470/tiago-carmo)
-* Pronouns: He/Him
-* Fun fact: I'm a lazy person
+<div align="center">
+  <h1><a href="https://www.reduxflakes.ga/">ReduxFlakes</a></h1>
+  <h3>15 • Portugal • Android app developer</h3>
+  <img src="https://komarev.com/ghpvc/?username=reduxflakes&label=Profile%20views&color=0e75b6&style=plastic" alt="reduxflakes" />
+  <img src="https://img.shields.io/youtube/channel/views/UCalh0YLyCq-SJ1v2-j9VyJQ?style=social" alt="YouTube" />
+  <img src="https://img.shields.io/mastodon/follow/108334346044827412?domain=https%3A%2F%2Ffosstodon.org%2F&style=social" alt="@redux" />
+  <br>
+  <hr>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=reduxflakes&show_icons=true&locale=en" align="left" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reduxflakes&show_icons=true&locale=en&layout=compact" align="right" height="170px">
+  <br><br><br><br<br><br><br><br><br><br><hr>
+  <h1>Skills</h1>
+  <br>
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/linux.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/windows.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/android.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/fdroid.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/firefoxbrowser.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/java.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/html5.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/css3.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/archlinux.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/geocaching.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/discord.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/python.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/jekyll.svg" height="50">
+  <img src="https://github.com/ReduxFlakes/ReduxFlakes/blob/main/xiaomi.svg" height="50">
+</div>
