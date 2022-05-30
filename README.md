@@ -1,6 +1,6 @@
 <div align="center">
   <h1><a href="https://www.reduxflakes.ga/">ReduxFlakes</a></h1>
-  <h3>15 • Portugal • Web and Android app developer</h3>
+  <h3>15 • Portugal • Web and Android developer</h3>
   <img src="https://komarev.com/ghpvc/?username=reduxflakes&label=Profile%20views&color=0e75b6&style=plastic" alt="reduxflakes" />
   <img src="https://img.shields.io/youtube/channel/views/UCalh0YLyCq-SJ1v2-j9VyJQ?style=social" alt="YouTube" />
   <img src="https://img.shields.io/mastodon/follow/108334346044827412?domain=https%3A%2F%2Ffosstodon.org%2F&style=social" alt="@redux" />
