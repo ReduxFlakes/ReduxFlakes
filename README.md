@@ -1,6 +1,6 @@
 # ReduxFlakes
 
-**15 • Portugal • Web and Android developer**
+**15 • Web and Android developer**
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=reduxflakes&show_icons=true&locale=en)
 
