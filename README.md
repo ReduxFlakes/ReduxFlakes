@@ -1,6 +1,6 @@
 # ReduxFlakes
 
-**15 • Android app developer, Web developer and app translator**
+### 15 • Android app developer, Web developer and app translator
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=reduxflakes&show_icons=true&locale=en)
 
