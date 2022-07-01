@@ -2,7 +2,7 @@
 
 ### 15 • Android app developer, Web developer and app translator
 
-![Overview](https://github-readme-stats.vercel.app/api?username=reduxflakes&show_icons=true&locale=en)
+![Overview](https://github-readme-stats.vercel.app/api?username=reduxflakes&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
 ![Views](https://komarev.com/ghpvc/?username=reduxflakes&label=Profile%20views&color=0e75b6&style=plastic)
 ![YouTube](https://img.shields.io/youtube/channel/views/UCalh0YLyCq-SJ1v2-j9VyJQ?style=social)
