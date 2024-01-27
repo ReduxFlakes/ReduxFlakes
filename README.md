@@ -4,9 +4,9 @@ Welcome! My name is ReduxFlakes and I do web and Android app development project
 
 ## Skills
 
-My language stack includes C, Java, and almost nothing of Python. I also have experience with web development using HTML, CSS, 11ty, and Jekyll.
+My language stack includes C, Java, and almost nothing of Python. I also have experience with web development using HTML, CSS, 11ty, Astro, and Jekyll.
 
-I'm currently taking my second GPI degree which includes JAVA.
+I'm currently taking my second GPI degree which includes Java and PHP.
 
 ## Projects
 
