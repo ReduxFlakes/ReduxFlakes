@@ -12,9 +12,10 @@ I'm currently taking my second GPI degree which includes Java and PHP.
 
 Here are some of the projects I've worked/contributed on:
 
+- [My Website](https://reduxflakes.neocities.org) | Built with 11ty
 - [SurfScape](https://github.com/SurfScape) | _Your friendly Neocities web portal_ - built using 11ty and Nunjucks
-- [Raven Protection](https://github.com/ReduxFlakes/raven-protection) | Ads and tracking filters for desktop and mobile browsers
-- [OTR Community](https://github.com/otr-community) | A group of people creating content and tools for the mobile game Off The Road
+- [SurfKit](https://github.com/SurfScape/surfkit) | UI framework and design language for SurfScape
+- [Raven Protection](https://codeberg.org/ReduxFlakes/raven-protection) | Ads and tracking filters for desktop and mobile browsers
 
 ## Contact
 
