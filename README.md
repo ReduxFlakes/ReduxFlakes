@@ -1,5 +1,3 @@
-![ReduxFlakes propeller purple banner](/banner.png)
-
 # ReduxFlakes
 
 Hey 👋, my name is ReduxFlakes (reducc for close friends) and I do web & Android app development. I'm a computer science student focused on FOSS, privacy, and security related topics the old/indie web! I also love [music](https://www.last.fm/user/ReduxFlakes).
