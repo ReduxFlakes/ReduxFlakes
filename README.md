@@ -9,13 +9,10 @@ Hey 👋, my name is ReduxFlakes (reducc for close friends) and I do web & Andro
 
 ## Skills
 
-### General Programming/Coding
+I mostly do web nowadays with [11ty](https://www.11ty.dev/) and [Nunjucks](https://mozilla.github.io/nunjucks/), I also know Android development with [Jepack Compose](https://developer.android.com/develop/ui/compose). Currently I want to try develop apps for Windows (desktop in general) and after the failure that was making something on WinForms responsive I decided to go learn more about Node.JS, especially Electron and Tauri to build apps with web technologies.
+I'm currently learning more about JavaScript and other web related utilities like [Svelte](https://svelte.dev/) and returning to [Astro](https://astro.build/) I'm also thinking of learning Rust and Python as I feel those will be really nice to work with in the future.
 
-I mostly work with the web nowadays with [11ty](https://www.11ty.dev/) with the [Nunjucks](https://mozilla.github.io/nunjucks/) templating language. I also currently do Android development with Java/Kotlin and currently learning [Jepack Compose](https://developer.android.com/develop/ui/compose) and [Kotlin](https://kotlinlang.org/). I'm also learning other web related utilities like [Svelte](https://svelte.dev/) and [SvelteKit](https://kit.svelte.dev/) and currently trying to learn Rust to build Windows apps using [Tauri](https://tauri.app/) together with SvelteKit.
-
-I've also used [Python](https://www.python.org/) to build Discord bots, [Sketchware](https://github.com/Sketchware-Pro/Sketchware-Pro) for Android Java app development, and [Astro](https://astro.build/) for websites in the past.
-
-I also have experience with Git, GitHub, Android Studio/IntelliJ, Visual Studio Code, Windows, and Firefox.
+I also have experience with Git, GitHub, Linux, Networking (not a lot), Windows, and Android.
 
 ### Other Skills
 
@@ -25,10 +22,11 @@ Figma, Penpot, Obsidian, Audacity, Discord, and FL Studio.
 
 This is a non-exhaustive list of project that I developed but also helped with.
 
-- [My Website](https://reduxflakes.neocities.org) | Built with 11ty
-- [SurfScape](https://github.com/SurfScape) | _Your friendly Neocities web portal_ - built using 11ty
-- [SurfKit](https://github.com/SurfScape/surfkit) | UI framework and design language for SurfScape - Vanilla JS and CSS
-- [Raven Protection](https://codeberg.org/ReduxFlakes/raven-protection) | Ads and tracking filters for desktop and mobile browsers (hiatus status)
+- [My Personal Website](https://reduxflakes.neocities.org) | Currently in construction...
+- [Portfolio](https://github.com/ReduxFlakes/portfolio) | 11ty and hosted on Netlify
+- [SurfScape](https://github.com/SurfScape) | _Your friendly Neocities web portal_ - 11ty
+- [SurfKit](https://github.com/SurfScape/surfkit) | Simple CSS framework that implements SurfScape branding goals
+- [Raven Protection](https://codeberg.org/ReduxFlakes/raven-protection) | Ads and tracking filters for desktop and mobile browsers (currently inactive)
 
 ## Contact
 
