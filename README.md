@@ -64,7 +64,7 @@ This is a non-exhaustive list of project that I developed but also helped with.
 - [SurfKit](https://github.com/SurfScape/surfkit) | Simple CSS framework that implements SurfScape branding goals
 - [Raven Protection](https://codeberg.org/ReduxFlakes/raven-protection) | Ads and tracking filters for desktop and mobile browsers (currently inactive)
 
-## Contact
+## Contact/Support
 
 If you'd like to learn more about me or my work, please visit my personal site ([neocities](https://reduxflakes.neocities.org)/[nekoweb](https://reduxflakes.nekoweb.org)) for additional information!
 
@@ -72,5 +72,6 @@ If you'd like to learn more about me or my work, please visit my personal site (
   <img src="https://profile-counter.glitch.me/reduxflakes/count.svg?"  />
 </div>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K519YBGW)
 
 
