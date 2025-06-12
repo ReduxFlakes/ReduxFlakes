@@ -59,9 +59,8 @@ I'm currently learning more about JavaScript and other web related utilities lik
 This is a non-exhaustive list of project that I developed but also helped with.
 
 - [My Personal Website](https://reduxflakes.neocities.org) | Currently in construction...
-- [Portfolio](https://github.com/ReduxFlakes/portfolio) | 11ty and hosted on Netlify
-- [SurfScape](https://github.com/SurfScape) | _Your friendly Neocities web portal_ - 11ty
-- [SurfKit](https://github.com/SurfScape/surfkit) | Simple CSS framework that implements SurfScape branding goals
+- [SurfScape](https://github.com/SurfScape) | Developing ethical software
+- [Steel](https://github.com/SurfScape/steel) | Design language and system by SurfScape
 - [Raven Protection](https://codeberg.org/ReduxFlakes/raven-protection) | Ads and tracking filters for desktop and mobile browsers (currently inactive)
 
 ## Contact/Support
