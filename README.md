@@ -85,13 +85,4 @@ I'm also thinking of learning Rust and Python as I feel those will be really nic
 
 If you'd like to learn more about me or my work, please visit my personal site ([neocities](https://reduxflakes.neocities.org)/[nekoweb](https://reduxflakes.nekoweb.org)) for additional information!
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/reduxflakes/count.svg?"  />
-  
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K519YBGW)
-  
-</div>
-
-
-
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K519YBGW)
