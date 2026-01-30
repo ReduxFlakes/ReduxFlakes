@@ -75,8 +75,9 @@ I'm also thinking of learning Rust and Python as I feel those will be really nic
 
 - [Personal Website](https://github.com/reduxflakes/website)
 - [SurfScape](https://github.com/SurfScape) | Developing ethical software
-- [Steel](https://github.com/SurfScape/steel) | Design language and system by SurfScape (private)
-- [Raven Protection](https://codeberg.org/ReduxFlakes/raven-protection) | Ads and tracking filters for desktop and mobile browsers (inactive)
+- [Celer](https://github.com/SurfScape/celer) | The advanced, open source toolbox for Windows 10 & 11
+
+[Check more projects on my website](https://reduxflakes.nekoweb.org/work/projects)!
 
 ## Contact/Support
 
