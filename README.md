@@ -1,10 +1,10 @@
 # ReduxFlakes
 
-Hi, I'm ReduxFlakes, a software developer and designer from Portugal. I'm an advocate on FOSS and privacy.
+Hi I'm ReduxFlakes, a software developer & designer from Portugal.
 
 ## Skills
 
-My main areas are web using tools such as [11ty](https://www.11ty.dev/) and [Nunjucks](https://mozilla.github.io/nunjucks/), but also software development under Windows with .NET, C# and WPF. I also delved into Android with both Java (with views) and Jetpack Compose (with Kotlin), and I'm currently trying out web frameworks ([Svelte](https://svelte.dev/)) and other ways to make desktop applications ([Tauri](https://tauri.app/)).
+My main areas are web trough [11ty](https://www.11ty.dev/), [Lume](https://lume.land/), and more recently [Svelte](https://svelte.dev/). I also do software development for Windows with .NET, C#, and WPF. Some years ago I also delved into Android through both Java (with views) and Kotlin & Jetpack Compose.
 
 <div>
   <img src="https://img.shields.io/badge/Eleventy-000000?logo=eleventy&logoColor=white&style=for-the-badge" height="40" alt="eleventy logo"  /> 
@@ -26,13 +26,13 @@ My main areas are web using tools such as [11ty](https://www.11ty.dev/) and [Nun
 ## Projects
 
 - [Personal Website](https://github.com/reduxflakes/website)
-- [SurfScape](https://github.com/SurfScape) | Developing ethical software
-- [Celer](https://github.com/SurfScape/celer) | The advanced, open source toolbox for Windows 10 & 11
+- [SurfScape](https://github.com/SurfScape) | My collective
+- [Celer](https://github.com/SurfScape/celer) | The open source toolbox for Windows 10 & 11
 
-[More projects](https://reduxflakes.nekoweb.org/work/projects)!
+[More projects](https://reduxflakes.nekoweb.org/projects)!
 
 ## Contact/Support
 
-If you'd like to learn more about me or my work, please visit my personal site ([neocities](https://reduxflakes.neocities.org)/[nekoweb](https://reduxflakes.nekoweb.org)).
+If you'd like to learn more about me or my work, please visit my personal site ([neocities](https://reduxflakes.neocities.org)/[nekoweb](https://reduxflakes.nekoweb.org))!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K519YBGW)
