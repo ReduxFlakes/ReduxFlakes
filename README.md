@@ -4,7 +4,7 @@ Hi I'm ReduxFlakes, a software developer & designer from Portugal.
 
 ## Skills
 
-My main areas are web trough [11ty](https://www.11ty.dev/), [Lume](https://lume.land/), and more recently [Svelte](https://svelte.dev/). I also do software development for Windows with .NET, C#, and WPF. Some years ago I also delved into Android through both Java (with views) and Kotlin & Jetpack Compose.
+I mostly work with web stuff with [11ty](https://www.11ty.dev/) and [Svelte](https://svelte.dev/). I'm currently starting Linux software development with Vala and GTK, before I was developing for Windows with .NET, C#, and WPF. Some years ago I also did Android app developemtn with Java and Kotlin (Jetpack Compose).
 
 <div>
   <img src="https://img.shields.io/badge/Eleventy-000000?logo=eleventy&logoColor=white&style=for-the-badge" height="40" alt="eleventy logo"  /> 
@@ -13,13 +13,13 @@ My main areas are web trough [11ty](https://www.11ty.dev/), [Lume](https://lume.
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
   <img src="https://img.shields.io/badge/Java-FCC624?logo=openjdk&logoColor=black&style=for-the-badge" height="40" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="40" alt="svelte logo"  />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="40" alt="android logo"  />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" height="40" alt="svelte logo"  />
   <img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=for-the-badge" height="40" alt="tauri logo"  />
 </div>
 
